@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-DENIS TY PIDR
-=======
-denis
->>>>>>> c577164 (hi denis)
