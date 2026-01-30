@@ -1,1 +1,5 @@
-buye
+<<<<<<< HEAD
+buyement
+=======
+BUYE BUYE
+>>>>>>> fixbugdev2
