@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-buyement
-=======
-BUYE BUYE
->>>>>>> fixbugdev2
+HUI HUI HUI
+
